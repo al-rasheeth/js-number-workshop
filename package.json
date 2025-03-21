@@ -1,0 +1,13 @@
+{
+  "name": "number-precision-demo",
+  "version": "1.0.0",
+  "description": "JavaScript number precision examples and solutions",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "decimal.js": "^10.4.3"
+  }
+} 
